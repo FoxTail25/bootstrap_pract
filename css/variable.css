@@ -2,12 +2,15 @@ html {
 	--nav-bg-color: rgb(34,34,40);
 	--nav-font-color: #ffffff;
 
-	font-family: Roboto;
+}
+body {
+	font-family: Roboto, 'sans serif';
 }
 
-.mar-top-32px {
+.mt-6 {
 	margin-top: 32px;
 }
-.mar-top-73px {
+.mt-7 {
 	margin-top: 73px;
+	/* padding: 16px 0; */
 }
